@@ -4,6 +4,8 @@ CLI tool that finds broken or incomplete videos on a drive, trims off the unplay
 
 It works by probing with `ffprobe`, optionally decoding with `ffmpeg` to locate the first hard error, then stream-copying the playable prefix (or re-encoding for compression). Originals are moved aside rather than deleted by default.
 
+See [docs/USAGE.md](docs/USAGE.md) for a deeper look at the manifest format, verification steps, and performance tips.
+
 ## Requirements
 
 - Python 3.8+
