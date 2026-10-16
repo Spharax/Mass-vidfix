@@ -113,4 +113,4 @@ Partial-download extensions (`.part`, `.crdownload`, `.ytdl`, etc.) are always m
 
 ## License
 
-No license file is present. Treat as all-rights-reserved until one is added.
+[MIT](LICENSE) © 2026 Spharax
